@@ -108,7 +108,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 📧 التواصل | Contact
 
-- Telegram: [@YourUsername](https://t.me/YourUsername)
 - GitHub: [AnasAlrini](https://github.com/AnasAlrini)
 
 ## 🌟 شكر خاص | Special Thanks
